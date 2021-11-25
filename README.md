@@ -15,6 +15,8 @@ This repo contains code of Flower Classification Based On Image Processing And M
 - Pillow
 - matplotlib
 - Ipython
+- glob
+- random
 ## Operations
 - BGR to RGB
 - Resizing

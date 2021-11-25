@@ -6,6 +6,7 @@ This repo contains code of Flower Classification Based On Image Processing And M
 2. project_report.pdf
 3. requirements.txt
 4. README.md
+5. Flowers.zip
 ## Requirements
 - Numpy
 - cv2
